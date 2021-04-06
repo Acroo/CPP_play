@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christianholmqvist/Code/CPP_play/project/Containers/circular_buffer.hpp
+iostream
+-
+array
+-
+stdexcept
+-
+iterator
+-
+
+/Users/christianholmqvist/Code/CPP_play/project/Containers/test.cpp
+iostream
+-
+algorithm
+-
+iterator
+-
+vector
+-
+circular_buffer.hpp
+/Users/christianholmqvist/Code/CPP_play/project/Containers/circular_buffer.hpp
+

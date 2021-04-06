@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christianholmqvist/Code/CPP_play/project/Containers/multimaps.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+utility
+-
+map
+-
+

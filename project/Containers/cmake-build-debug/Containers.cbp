@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Containers"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project/fast">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sets">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Sets" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sets"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sets/fast">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Sets" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sets/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Multimaps">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Multimaps" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Multimaps"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Multimaps/fast">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Multimaps" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Multimaps/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Maps">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Maps" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Maps"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Maps/fast">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Maps" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Maps/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Array">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Array"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Array/fast">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Array/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StacksAndQueue">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/StacksAndQueue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 StacksAndQueue"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StacksAndQueue/fast">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/StacksAndQueue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 StacksAndQueue/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="List">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/List" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 List"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="List/fast">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/List" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 List/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Containers">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Containers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Containers"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Containers/fast">
+				<Option output="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Containers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Containers/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/christianholmqvist/Code/CPP_play/project/Containers/array.cpp">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="/Users/christianholmqvist/Code/CPP_play/project/Containers/circular_buffer.hpp">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/Users/christianholmqvist/Code/CPP_play/project/Containers/lists.cpp">
+			<Option target="List"/>
+		</Unit>
+		<Unit filename="/Users/christianholmqvist/Code/CPP_play/project/Containers/maps.cpp">
+			<Option target="Maps"/>
+		</Unit>
+		<Unit filename="/Users/christianholmqvist/Code/CPP_play/project/Containers/multimaps.cpp">
+			<Option target="Multimaps"/>
+		</Unit>
+		<Unit filename="/Users/christianholmqvist/Code/CPP_play/project/Containers/sets.cpp">
+			<Option target="Sets"/>
+		</Unit>
+		<Unit filename="/Users/christianholmqvist/Code/CPP_play/project/Containers/stack.cpp">
+			<Option target="StacksAndQueue"/>
+		</Unit>
+		<Unit filename="/Users/christianholmqvist/Code/CPP_play/project/Containers/test.cpp">
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/Users/christianholmqvist/Code/CPP_play/project/Containers/vector.cpp">
+			<Option target="Containers"/>
+		</Unit>
+		<Unit filename="/Users/christianholmqvist/Code/CPP_play/project/Containers/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

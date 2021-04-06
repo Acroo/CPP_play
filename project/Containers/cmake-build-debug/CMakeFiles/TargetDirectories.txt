@@ -1,0 +1,10 @@
+/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/CMakeFiles/Project.dir
+/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/CMakeFiles/Sets.dir
+/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/CMakeFiles/Multimaps.dir
+/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/CMakeFiles/Maps.dir
+/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/CMakeFiles/Array.dir
+/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/CMakeFiles/StacksAndQueue.dir
+/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/CMakeFiles/List.dir
+/Users/christianholmqvist/Code/CPP_play/project/Containers/cmake-build-debug/CMakeFiles/Containers.dir
