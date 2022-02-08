@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/christianholmqvist/Code/CPP_play/project/Containers/stack.cpp
+iostream
+-
+stack
+-
+queue
+-
+deque
+-
+
